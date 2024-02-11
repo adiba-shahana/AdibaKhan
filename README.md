@@ -17,3 +17,11 @@
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adiba-shahana&layout=compact&show_icons=true&theme=radical)
+
+🔭 I’m currently working on - *Artificial Intelligence  & Machine Learning.*
+
+🌱 I’m currently learning - *LLM Evaluation, MLOps*
+
+👯 I’ve recently working in company - * as AI/ML Engineer*
+
+😄 Words that describe me - *Problem Solver, Hard Working *
